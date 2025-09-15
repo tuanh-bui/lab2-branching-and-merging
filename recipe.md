@@ -1,9 +1,9 @@
 # Delicious Chocolate Cake Recipe
 
 ## Ingredients:
-- 2 cups all-purpose flour
-- 1 3/4 cups granulated sugar
-- 3/4 cup unsweetened cocoa powder
+- 4 cups all-purpose flour
+- 3 1/2 cups granulated sugar
+- 1 1/2 cup unsweetened cocoa powder
 - ...
 
 ## Instructions:
